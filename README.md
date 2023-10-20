@@ -1,7 +1,7 @@
 # CSGO-Config
 
 ◤　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　◥
-　　　　　CFG: https://github.com/Chartone/CSGO-Config
+　　　　　CFG: https://github.com/Chartone/CS2-Config
 ◣　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　◢
 
 [hr][/hr]
